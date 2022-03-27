@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "DoodFunc",
+      "name": "DoodFunc Behavior Pack",
+      "uuid":"b1e612d6-cd3c-41ee-a21c-05338fe058f7",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "Dope shit",
+            "type": "data",
+            "uuid": "",
+            "version": [1, 0, 0]
+        }
+      ],
+    "dependencies": [
+      {
+       "uuid":"b1e612d6-cd3c-41ee-a21c-05338fe058f7",
+        "version":[1,0,0]
+      }
+   ]
+  }
